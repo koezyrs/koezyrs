@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity Multiplayer & ECS/DOTS**
 
-- 👯 I’m looking to collaborate on **online game projects**
+- 👯 I’m looking to collaborate on **Online MMORPG Game Projects**
 
 - 📫 How to reach me: **tuanduong152004@gmail.com**
 
